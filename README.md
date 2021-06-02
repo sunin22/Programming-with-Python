@@ -1,2 +1,3 @@
 # Programming-with-Python
-International University of Applied Sciences_BS. Data Science
+Basic knowledge of learning programming with Python
+Including Variables and Data Types, Statements, Functions, Errors and Exceptions, Modules and Packages
